@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+
+div{
+    color: rgb(47, 44, 230);
+    background-color: rgba(75, 241, 247, 0.76);
+    margin-top: -20px;
+}
+
+label{
+    color: rgb(3, 59, 245);
+    font-size: 22px;
+}
+
+input{
+    width: 250px;
+}
+
+canvas{
+    border-color: aqua;
+    border-style:ridge ;
+    margin-top: 190px;
+}
